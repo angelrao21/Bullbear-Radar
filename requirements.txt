@@ -1,0 +1,12 @@
+streamlit
+pandas
+plotly
+requests
+nltk
+vaderSentiment
+textblob
+scikit-learn
+scipy
+numpy
+river
+watchdog
